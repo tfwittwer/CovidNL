@@ -1,0 +1,1 @@
+This is a simple Jupyter Notebook that loads some of the Dutch Covid-19 statistics and generates plots. Also included is the plot of temperature, this data has been downloaded from the Dutch meteorological institute RIVM.
